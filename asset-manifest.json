@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/word-chain-game/static/css/main.71b61373.css",
+    "main.js": "/word-chain-game/static/js/main.36fcaf43.js",
+    "index.html": "/word-chain-game/index.html",
+    "main.71b61373.css.map": "/word-chain-game/static/css/main.71b61373.css.map",
+    "main.36fcaf43.js.map": "/word-chain-game/static/js/main.36fcaf43.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71b61373.css",
+    "static/js/main.36fcaf43.js"
+  ]
+}
